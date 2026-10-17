@@ -1,6 +1,6 @@
 // 21. Merge Two Sorted Lists (Easy)
 // https://leetcode.com/problems/merge-two-sorted-lists/
-// Runtime: 0 ms (beats 100.0%) · Memory: 4.4 MB (beats 29.1%)
+// Runtime: 0 ms (beats 100.0%) · Memory: 4.2 MB (beats 100.0%)
 
 /**
  * Definition for singly-linked list.
