@@ -46,12 +46,13 @@
 <p>&nbsp;</p>
 <strong>Follow-up:&nbsp;</strong>Can you come up with an algorithm that is less than <code>O(n<sup>2</sup>)</code><font face="monospace">&nbsp;</font>time complexity?
 
-## Solution
+## Solutions (2)
 
 <!-- leetconnect:solutions -->
 | File | Language | Runtime | Memory | Solved |
 | --- | --- | --- | --- | --- |
 | [solution.go](./solution.go) | Go | 59 ms (beats 5.0%) | 5.3 MB (beats 98.5%) | 2026-10-17 |
+| [solution-2.go](./solution-2.go) | Go | 1 ms (beats 51.9%) | 5.8 MB (beats 70.3%) | 2026-10-17 |
 <!-- /leetconnect:solutions -->
 
 <sub>Synced by LeetConnect</sub>
