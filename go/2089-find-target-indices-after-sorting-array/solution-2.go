@@ -1,6 +1,6 @@
 // 2089. Find Target Indices After Sorting Array (Easy)
 // https://leetcode.com/problems/find-target-indices-after-sorting-array/
-// Runtime: 0 ms (beats 100.0%) · Memory: 4.4 MB (beats 80.0%)
+// Runtime: 0 ms (beats 100.0%) · Memory: 4.3 MB (beats 100.0%)
 
 func targetIndices(nums []int, target int) []int {
 	arr := []int{}
