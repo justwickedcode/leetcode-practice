@@ -1,6 +1,6 @@
 // 3942. Minimum Operations to Sort a Permutation (Medium)
 // https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/
-// Runtime: 4 ms (beats 0.0%) · Memory: 16.3 MB (beats 0.0%)
+// Runtime: 3 ms (beats 100.0%) · Memory: 11.1 MB (beats 100.0%)
 
 func minOperations(nums []int) int {
     n := len(nums);
