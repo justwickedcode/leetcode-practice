@@ -1,6 +1,6 @@
 // 2409. Count Days Spent Together (Easy)
 // https://leetcode.com/problems/count-days-spent-together/
-// Runtime: 0 ms (beats 100.0%) · Memory: 3.8 MB (beats 100.0%)
+// Runtime: 0 ms (beats 100.0%) · Memory: 3.8 MB (beats 75.0%)
 
 package main
 
